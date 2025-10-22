@@ -26,3 +26,8 @@ TODO Turn in: Turn in your 2 files (The Word and ScrabbleGame java files) to the
 TODO: Each student must respond to the reflection question individually, providing a unique answer. This part of the assignment should not be done collaboratively. Submit your reflection as a document either on Canvas or in the GitHub repository.
 
 Reflect on your personal problem-solving process. How did your understanding of object-oriented programming (e.g., classes, constructors, and data structures like ArrayLists) evolve as you worked on this task? What challenges did you encounter and how did you go about fixing them? Explain which LLM, your prompts, or internet help and how debugged your code?
+
+
+
+Debugging & Coding: The hardest part of coding this was trying to fix some mistakes the AI did. We fixed it by running the code and double checking to make sure it's right.
+
